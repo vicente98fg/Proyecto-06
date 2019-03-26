@@ -28,8 +28,8 @@ if ($conector->connect_errno) {
 <body>
     
     <ul>
-        <li><a class="active" href="proyecto6.php">Indice</a></li>
-        <li><a href="proyecto6lista.php">Listado Jugadores</a></li>
+        <li><a class="active" href="index.php">Indice</a></li>
+        <li><a href="listadoUsuarios.php">Listado Jugadores</a></li>
     </ul>
 
     <script src="proyecto6.js">
